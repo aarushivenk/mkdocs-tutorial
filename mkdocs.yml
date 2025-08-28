@@ -1,5 +1,12 @@
 site_name: My MKDocs Material Theme
 site_url: https://aarushivenk.github.io/mkdocs-tutorial/
+
+nav:
+  - Home: index.md
+  - Code Examples: code-examples.md
+  - Content Tabs: content-tabs.md
+  - Admonitions: admonitions.md
+  - Diagrams: diagram-examples.md
 theme: 
   name: material  
   font:
